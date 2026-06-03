@@ -79,3 +79,8 @@ Through this project, I gained hands-on experience with:
 The application was successfully containerised using Docker, pushed to Amazon ECR, deployed to ECS Fargate and made publicly accessible.
 
 A GitHub Actions workflow was configured to automate image builds, image pushes to ECR and ECS service deployments following changes pushed to the repository.
+
+## Additional Documentation
+
+- [Design Decisions](docs/design-decisions.md)
+- [Troubleshooting Notes](docs/troubleshooting.md)
