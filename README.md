@@ -1,5 +1,9 @@
 # ECS Fargate CI/CD Platform
 
+## Architecture Diagram
+
+![Architecture Diagram](images/architecture-diagram.png)
+
 ## Overview
 
 This project demonstrates how to containerise a web application using Docker, store container images in Amazon ECR, deploy containers to Amazon ECS Fargate, and automate deployments using GitHub Actions.
